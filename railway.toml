@@ -10,3 +10,5 @@
     protocol = "tcp"
   [deploy.ports.443]
     protocol = "tcp"
+  [deploy.ports.443]
+    protocol = "udp"
