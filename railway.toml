@@ -9,4 +9,4 @@
   [deploy.ports.54321]
     protocol = "tcp"
   [deploy.ports.443]
-    protocol = "any"
+    protocol = ""
